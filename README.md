@@ -29,4 +29,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 - Part 1
-  - Some parts of the video were outdated in terms of XCode layout (adding in images from assets) and AlamofireImage (deprecated method), but I was able to find it with some googling 
+  - Some parts of the video were outdated in terms of XCode layout (adding in images from assets) and AlamofireImage (deprecated method), but I was able to find it with some Googling 
